@@ -9,7 +9,7 @@ pip install -r requirements_versions.txt
 ```
 cd /opt/fooocus/Fooocus/
 source fooocus_env/bin/activate
-python entry_with_update.py --always-cpu
+python entry_with_update.py --always-cpu 3
 ```
 Or, if you want to open a remote port, use
 
